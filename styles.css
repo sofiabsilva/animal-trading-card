@@ -3,7 +3,7 @@
   width: 300px;
   border: 1px;
   box-shadow: 15px 14px 58px -16px rgba(0,0,0,0.79);
-  /* background-color: #f7caca; */
+/* background-color: #f7caca; */
   border-radius: 18px 18px 18px 18px;
   background: linear-gradient(135deg, rgba(255,255,255,1) 0%, rgba(246,246,246,1) 0%, rgba(247,202,202,1) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#f7caca', GradientType=1 );
@@ -19,10 +19,10 @@ h1 {
   color: black;
   font-family: "Century Gothic", "Century Gothic", "Apple Gothic", sans-serif;
   font-family: 'Coustard', serif;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 520;
-	line-height: 1px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 520;
+  line-height: 1px;
   text-align: center;
 }
 .image {
@@ -46,11 +46,11 @@ h1 {
   text-align: justify;
   font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
   font-family: font-family: 'Work Sans', sans-serif;
-	font-size: 14px;
-	font-style: normal;
-	font-variant: normal;
-	font-weight: 400;
-	line-height: 20px;
+  font-size: 14px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+  line-height: 20px;
   padding-bottom: 0em;
   height:auto;
   margin: auto;
